@@ -92,7 +92,19 @@ Devendrasing Rajput
 </tr>
 </table>
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&lines=Cybersecurity+Engineer;Threat+Analyst;AI+Security+Researcher;Python+Developer;Data+Analyst;Data+Engineer;Building+Enterprise+Security+Tools;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Threat_Analyst-B22222?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Data_Analyst-1E88E5?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Engineer-0052CC?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Security-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 # 🚀 Current Projects
 
 | Project | Description |
@@ -266,6 +278,19 @@ Devendrasing Rajput
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devendrasingno1/Devendrasingno1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devendrasingno1/Devendrasingno1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Devendrasingno1/Devendrasingno1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
 # 🚀 Featured Projects
 
 <div align="center">
@@ -288,7 +313,7 @@ Devendrasing Rajput
 
 # 🎯 Current Focus
 
-```text
+
 🛡 Building Enterprise Cybersecurity Tools
 
 🤖 AI-Powered Security Solutions
@@ -300,7 +325,7 @@ Devendrasing Rajput
 🌐 Network Security Research
 
 🚀 Open Source Contributions
-```
+
 
 ---
 
