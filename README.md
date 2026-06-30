@@ -52,7 +52,45 @@ Full Time Job
 Research Projects
 Open Source Collaboration
 ```
+<h2 align="center">👨‍💻 Developer Card</h2>
 
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Devendrasingno1">
+<img width="1254" height="1254" alt="ChatGPT Image Jun 30, 2026, 03_32_12 PM" src="https://github.com/user-attachments/assets/be97a296-8206-49b2-ae18-8aaa362d652f" />
+</a>
+
+</td>
+
+<td width="65%">
+
+<h1>
+Devendrasing Rajput
+</h1>
+
+🛡 Cybersecurity Engineer
+
+🤖 AI Security Researcher
+
+💻 Python Developer
+
+📊 Data Analyst
+
+🎓 B.Tech Computer Engineering
+
+📍 Maharashtra, India
+
+### Currently Working On
+
+- 🛡 ShieldDroidAI
+- 🚀 PortGuardAI
+- ⚔ Strike Engine
+- 🤖 AI English Tutor
+
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Current Projects
@@ -233,16 +271,18 @@ Open Source Collaboration
 <div align="center">
 
 <a href="https://github.com/Devendrasingno1/PortGuardAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendrasingno1&repo=PortGuardAI&theme=tokyonight&hide_border=true"/>
+<img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 02_18_34 PM" src="https://github.com/user-attachments/assets/c09107b8-ecfa-428c-af23-b90259ea2cf2" />
+
 </a>
 
 <a href="https://github.com/Devendrasingno1/ShieldDroidAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendrasingno1&repo=ShieldDroidAI&theme=tokyonight&hide_border=true"/>
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/92716529-1fe3-476e-be45-cd92217a0513" />
+
 </a>
 
 </div>
 
-> ⚠️ **Note:** Agar `ShieldDroidAI` repository abhi GitHub par nahi hai, to is card ko temporary remove kar dena ya baad me add karna.
+
 
 ---
 
