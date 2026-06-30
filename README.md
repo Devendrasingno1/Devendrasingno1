@@ -80,12 +80,13 @@ Devendrasing Rajput
 
 📍 Maharashtra, India
 
-### Currently Working On
-
+### Completed Project
 - 🛡 ShieldDroidAI
 - 🚀 PortGuardAI
+### Currently Working On
 - ⚔ Strike Engine
 - 🤖 AI English Tutor
+
 
 </td>
 </tr>
