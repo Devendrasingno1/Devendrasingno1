@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-```yaml
+
 Name: Devendrasing Rajput
 
 Location: Maharashtra, India
@@ -50,8 +50,7 @@ Open To:
 Internships
 Full Time Job
 Research Projects
-Open Source Collaboration
-```
+
 <h2 align="center">👨‍💻 Developer Card</h2>
 
 <table>
